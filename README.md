@@ -2,6 +2,10 @@
 
 Streamlitの評価
 
+## PyCharmでStreamlitの実行やデバッグを設定する方法
+
+![画像の説明](images/pycharm_streamlit_setting.png)
+
 ## ドキュメント
 
 * 公式
